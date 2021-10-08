@@ -24,7 +24,7 @@ Simplify 9x9 grid into 3x3
 
 ## Question
 
-C. Formulate this problem in the straightforward way. Compute the size of the state space.
+A. Formulate this problem in the straightforward way. Compute the size of the state space.
 
     State space of 9x9 grid is 81
 
